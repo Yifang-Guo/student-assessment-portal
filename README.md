@@ -1,16 +1,20 @@
 **My Version**
+
 IntelliJ IDEA 2023.3.4
 JDK 20.0.2
 Tomcat 10.1.17
 MySQL 8.1.0
 
 **Tech Stack**
+
 bootstrap, servlet, jsp, mysql, jstl
 
 **Detailed Functions**
+
 We have three major roles in this system, i.e., Students, Teachers, and Admins.
 
 Admin
+
 Admins will have a dashboard where they have the option to:
   a. Create new users (students or teachers) and set all relevant information e.g, username, password, name, phone etc.
   b. Create new courses and set all relevant information e.g, course ID, course name, semester etc
